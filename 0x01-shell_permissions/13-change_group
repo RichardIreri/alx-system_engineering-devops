@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp /etc/group/school hello
+chgrp school hello
